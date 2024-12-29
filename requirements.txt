@@ -1,0 +1,14 @@
+# Install streamlit for UI
+streamlit
+
+# Install langchain
+langchain
+
+# Install langchain-groq to communicate with Llama model
+langchain-groq
+
+# Install python-dotenv package
+python-dotenv
+
+# PyPDF2 package to read PDF documents
+PyPDF2
